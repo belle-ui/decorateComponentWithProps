@@ -1,0 +1,19 @@
+{
+  "name": "decorate-component-with-props",
+  "version": "1.0.0",
+  "description": "Utility function for decorating a React component with any props",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belle-ui/decorateComponentWithProps.git"
+  },
+  "author": "Julian Krispel-Samsel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/belle-ui/decorateComponentWithProps/issues"
+  },
+  "homepage": "https://github.com/belle-ui/decorateComponentWithProps#readme"
+}
