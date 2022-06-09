@@ -1,6 +1,6 @@
 {
   "name": "decorate-component-with-props",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Utility function for decorating a React component with any props",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   "homepage": "https://github.com/belle-ui/decorateComponentWithProps#readme",
   "keywords": [],
   "peerDependencies": {
-    "react": "^0.14.0 || ^15.0.0 || ^16.0.0"
+    "react": "^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "babel": "^6.5.1",
